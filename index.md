@@ -1,6 +1,4 @@
-<span style="border-radius: 50%">
-![Image](vladimir-lotarev600x600@2x.jpg)
-</span>
+
 # Vladimir Lotarev
 
 # Header 1

@@ -1,7 +1,9 @@
-<span style="border-radius: 50%">
+<p style="display:flex;justify-content:space-between;align-items:center;">
+<span style="border-radius:50%;display:inline-block;overflow:hidden;width:250px;height:250px;margin-right:20px;">
 ![Vladimir Lotarev](vladimir-lotarev600x600@2x.jpg)
 </span>
-# Vladimir Lotarev
+</p>
+# Vladimir Lotarev  
 
 ## Header 2
 ### Header 3

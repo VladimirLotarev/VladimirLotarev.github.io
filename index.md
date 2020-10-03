@@ -1,3 +1,4 @@
+![Image](vladimir-lotarev600x600@2x.jpg)
 # Vladimir Lotarev
 
 # Header 1
@@ -12,4 +13,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](vladimir-lotarev600x600@2x.jpg)
+[vladimirlotarev.ru](https://vladimirlotarev.ru/)  

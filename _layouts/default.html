@@ -10,15 +10,9 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      {{ content }}
-      <div style="background: green;color: red;">Какой то текст</div>
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-      {% endif %}
+    <div style="display:flex;justify-content:space-between;">
+      <img src="/vladimir-lotarev600x600@2x.jpg" alt="Vladimir Lotarev" style="border-radius:50%;display:inline-block;overflow:hidden;width:250px;height:250px;margin-right:20px;" />
+      <h1>Vladimir Lotarev</h1>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>

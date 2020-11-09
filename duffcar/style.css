@@ -1161,7 +1161,7 @@ header .sub-menu__link {
 .feedback-section {
     background: #f5f5f5;
     background-repeat: no-repeat;
-    background-image: url('../images/feedback/feedbackbg-duffcar768.jpg'), url('../images/feedback/feedbackbg-duffcar768.webp');
+    background-image: url('images/feedback/feedbackbg-duffcar768.jpg'), url('images/feedback/feedbackbg-duffcar768.webp');
 }
 
 .feedback-section__wrap {
@@ -1389,7 +1389,7 @@ footer {
     }
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar600.jpg'), url('../images/feedback/feedbackbg-duffcar600.webp');
+        background-image: url('images/feedback/feedbackbg-duffcar600.jpg'), url('images/feedback/feedbackbg-duffcar600.webp');
     }
 
 }
@@ -1438,7 +1438,7 @@ footer {
     }
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar450.jpg'), url('../images/feedback/feedbackbg-duffcar450.webp');
+        background-image: url('images/feedback/feedbackbg-duffcar450.jpg'), url('images/feedback/feedbackbg-duffcar450.webp');
     }
 
 }
@@ -1486,7 +1486,7 @@ footer {
     }
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar360.jpg'), url('../images/feedback/feedbackbg-duffcar360.webp');
+        background-image: url('images/feedback/feedbackbg-duffcar360.jpg'), url('images/feedback/feedbackbg-duffcar360.webp');
     }
 }
 
@@ -1670,7 +1670,7 @@ footer {
     }
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar600.jpg'), url('../images/feedback/feedbackbg-duffcar600.webp');
+        background-image: url('images/feedback/feedbackbg-duffcar600.jpg'), url('images/feedback/feedbackbg-duffcar600.webp');
     }
 
     .feedback-section__wrap {
@@ -1766,7 +1766,7 @@ footer {
     }
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar414.jpg'), url('../images/feedback/feedbackbg-duffcar414.webp');
+        background-image: url('images/feedback/feedbackbg-duffcar414.jpg'), url('images/feedback/feedbackbg-duffcar414.webp');
     }
 
     .feedback__ttl {
@@ -1792,7 +1792,7 @@ footer {
 @media(max-width: 360px) {
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar360.jpg'), url('../images/feedback/feedbackbg-duffcar360.webp');  
+        background-image: url('images/feedback/feedbackbg-duffcar360.jpg'), url('images/feedback/feedbackbg-duffcar360.webp');  
     }
 
 }
@@ -1800,7 +1800,7 @@ footer {
 @media(max-width: 320px) {
 
     .feedback-section {
-        background-image: url('../images/feedback/feedbackbg-duffcar320.jpg'), url('../images/feedback/feedbackbg-duffcar320.webp');    
+        background-image: url('images/feedback/feedbackbg-duffcar320.jpg'), url('images/feedback/feedbackbg-duffcar320.webp');    
     }
 
 }
